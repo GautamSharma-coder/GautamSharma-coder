@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dbg-gautam-sharma" alt="dbg-gautam-sharma" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/_gautam_sharma" target="blank"><img src="https://img.shields.io/twitter/follow/_gautam_sharma?logo=twitter&style=for-the-badge" alt="_gautam_sharma" /></a> </p>
+<p align="left"> <a href="https://twitter.com/_Gautam_Ashish" target="blank"><img src="https://img.shields.io/twitter/follow/_Gautam_Ashish?logo=twitter&style=for-the-badge" alt="_gautam_sharma" /></a> </p>
 
 - 🌱 I’m currently learning **React DSA**
 
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/_gautam_ashish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_gautam_sharma" height="30" width="40" /></a>
+<a href="https://twitter.com/_Gautam_Ashish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_gautam_sharma" height="30" width="40" /></a>
 <a href="https://instagram.com/dbg_gautamsharma_officials" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dbg_gautamsharma_officials" height="30" width="40" /></a>
 </p>
 
