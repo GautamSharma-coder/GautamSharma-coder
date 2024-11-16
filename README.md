@@ -42,13 +42,13 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dbg-gautam-sharma&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=dbg-gautam-sharma&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GautamSharma-coder&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=GautamSharma-coder&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
 </div>
 
 <!-- Most Used Languages -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dbg-gautam-sharma&layout=compact&theme=tokyonight&hide_border=true" width="45%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GautamSharma-coder&layout=compact&theme=tokyonight&hide_border=true" width="45%" alt="Top Languages" />
 </p>
 
 ---
@@ -56,7 +56,7 @@
 ### 🏆 GitHub Achievements
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=dbg-gautam-sharma&theme=dracula&no-frame=true&column=6" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=GautamSharma-coder&theme=dracula&no-frame=true&column=6" alt="GitHub Trophies" />
   </a>
 </p>
 
