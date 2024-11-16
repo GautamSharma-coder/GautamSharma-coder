@@ -1,3 +1,47 @@
+
+<!-- Unique ASCII Art Header -->
+<div align="center">
+  
+  <pre style="font-size: 20px; font-family: monospace;">
+   ██████╗  █████╗ ██╗   ██╗████████╗ █████╗ ███╗   ███╗    
+  ██╔════╝ ██╔══██╗██║   ██║╚══██╔══╝██╔══██╗████╗ ████║    
+  ██║  ███╗███████║██║   ██║   ██║   ███████║██╔████╔██║    
+  ██║   ██║██╔══██║██║   ██║   ██║   ██╔══██║██║╚██╔╝██║    
+  ╚██████╔╝██║  ██║╚██████╔╝   ██║   ██║  ██║██║ ╚═╝ ██║    
+   ╚═════╝ ╚═╝  ╚═╝ ╚═════╝    ╚═╝   ╚═╝  ╚═╝╚═╝     ╚═╝    
+   </pre>
+   
+  <h2>🔐 Passionate Cybersecurity Enthusiast & Full-Stack Developer 🔧</h2>
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=500&color=00FF6A&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Let's+Explore+the+World+of+Code;Cybersecurity+%7C+Web+Development+%7C+Innovation" alt="Typing SVG">
+</div>
+
+---
+
+<!-- Creative Banner Graphic -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/76873217/226177321-cd0b11de-21ef-4e11-a0c1-8f23bff7bb79.png" width="80%" alt="Cybersecurity Header" />
+</p>
+
+<div align="center">
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=dbg-gautam-sharma&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
+    <a href="https://twitter.com/_Gautam_Ashish" target="_blank">
+      <img src="https://img.shields.io/twitter/follow/_Gautam_Ashish?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
+    </a>
+  </p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> 
   Hi, I'm Gautam Kumar Sharma
