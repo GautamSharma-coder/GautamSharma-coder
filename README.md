@@ -1,11 +1,12 @@
-<h1 align="center">Hi 👋, I'm Gautam Kumar Sharma</h1>
-<h3 align="center">🚀 A passionate Cyber Security Enthusiast from India 🌐</h3>
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> 
+  Hi, I'm Gautam Kumar Sharma
+</h1>
+
+<h3 align="center">🔐 Passionate Cyber Security Enthusiast from India 🌐</h3>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=dbg-gautam-sharma&label=Profile%20views&color=0e75b6&style=flat-square" alt="dbg-gautam-sharma" />
-</div>
-
-<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=dbg-gautam-sharma&label=Profile%20views&color=ff69b4&style=flat-square" alt="dbg-gautam-sharma" />
   <a href="https://twitter.com/_Gautam_Ashish" target="_blank">
     <img src="https://img.shields.io/twitter/follow/_Gautam_Ashish?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
   </a>
@@ -13,63 +14,79 @@
 
 ---
 
-### 👨‍💻 About Me
-
-- 🌱 I’m currently learning **React** and **Data Structures & Algorithms**
-- 💬 Ask me about **HTML, CSS, JavaScript, and Cybersecurity**
-- 📫 How to reach me: **gautamksharma45@gmail.com**
-
----
-
-<h3 align="center">⚡ Connect with Me</h3>
+<h2 align="center">👨‍💻 About Me</h2>
 <p align="center">
-  <a href="https://twitter.com/_Gautam_Ashish" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="40" width="40" /></a>
-  <a href="https://instagram.com/dbg_gautamsharma_officials" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" /></a>
+  🌱 Currently learning <b>React</b> and <b>Data Structures & Algorithms</b><br>
+  💬 Ask me about <b>HTML, CSS, JavaScript, Cybersecurity</b><br>
+  📧 Reach me at: <a href="mailto:gautamksharma45@gmail.com"><b>gautamksharma45@gmail.com</b></a>
 </p>
 
 ---
 
-<h3 align="center">🛠️ Languages and Tools</h3>
+<h2 align="center">🌐 Let's Connect</h2>
 <p align="center">
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
-  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
-  <a href="https://svelte.dev" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="Svelte" width="40" height="40"/></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/></a>
+  <a href="https://twitter.com/_Gautam_Ashish" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/dbg_gautamsharma_officials" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-<h3 align="center">📊 GitHub Stats</h3>
+<h2 align="center">💻 Technologies & Tools</h2>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dbg-gautam-sharma&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dbg-gautam-sharma&theme=tokyonight&hide_border=true" alt="Streak Stats" />
-</p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dbg-gautam-sharma&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,typescript,nodejs,git,github,figma,linux,bootstrap,svelte" alt="technologies" /><br/>
+  <img src="https://img.shields.io/badge/Editor-VSCode-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
 ---
 
-<h3 align="center">🏆 GitHub Achievements</h3>
+<h2 align="center">📊 GitHub Stats & Activity</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dbg-gautam-sharma&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dbg-gautam-sharma&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
+</div>
+
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dbg-gautam-sharma&theme=onedark&no-frame=true&margin-w=15" alt="Trophies" /></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dbg-gautam-sharma&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="45%" />
 </p>
 
 ---
 
-### 🔗 Let's Connect
-- 📧 **Email**: [gautamksharma45@gmail.com](mailto:gautamksharma45@gmail.com)
-- 💼 **LinkedIn**: [Coming Soon!]
+<h2 align="center">🏆 GitHub Achievements</h2>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=dbg-gautam-sharma&theme=darkhub&no-frame=true&margin-w=15&column=6" alt="Trophies" />
+  </a>
+</p>
+
+---
+
+<h2 align="center">🖋️ Recent Blog Posts</h2>
+<!-- BLOG-POST-LIST:START -->
+- Coming soon...
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+<h2 align="center">🎨 Fun Animations</h2>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=500&color=F76C6C&center=true&vCenter=true&width=500&lines=Cybersecurity+Enthusiast;Web+Developer+%7C+Explorer;Always+Learning+Something+New!" alt="Typing SVG">
+</p>
+
+---
+
+<h2 align="center">🚀 Projects</h2>
+<ul align="center">
+  <li>🚧 <b>Portfolio Website:</b> In Progress</li>
+  <li>🔐 <b>Security Projects:</b> Working on exciting cybersecurity projects!</li>
+</ul>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=0e75b6&center=true&vCenter=true&width=435&lines=Welcome+to+my+profile!;Cyber+Security+Enthusiast;Web+Developer+%7C+Learner+%7C+Explorer" />
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
 </p>
