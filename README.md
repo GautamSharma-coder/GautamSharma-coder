@@ -1,6 +1,6 @@
 <!-- 🌊 Interactive Gradient Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9966,100:ff5e62&height=250&section=header&text=👋%20Hi%20I'm%20Gautam%20Sharma!&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38" alt="Header Wave" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9966,100:ff5e62&height=250&section=header&text=👋%20Hi%20I'm%20Gautam%20Kr%20Sharma!&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38" alt="Header Wave" />
 
   <!-- 🖋️ Dynamic Typing Introduction -->
   <p align="center">
