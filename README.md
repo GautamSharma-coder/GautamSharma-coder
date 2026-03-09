@@ -1,108 +1,169 @@
-<!-- 🌊 Interactive Gradient Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9966,100:ff5e62&height=250&section=header&text=👋%20Hi%20I'm%20Gautam%20Kr%20Sharma!&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38" alt="Header Wave" />
 
-  <!-- 🖋️ Dynamic Typing Introduction -->
-  ![Typing Animation](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=500&color=39FF14&center=true&vCenter=true&width=700&lines=Cybersecurity+Enthusiast+🛡️;Full-Stack+Developer+💻;Problem+Solver+🔍;Always+Learning+New+Things!+🚀)
-<img src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" alt="Animated Header" width="30%" align="right" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Gautam%20Kumar%20Sharma&fontSize=48&fontColor=FFFFFF&fontAlignY=40&desc=Cybersecurity%20•%20Full-Stack%20Developer%20•%20Builder&descSize=16&descAlignY=62&descColor=a78bfa&animation=fadeIn" />
 
-  <!-- 🌐 Social Media Icons with Hover Animation -->
-  <p align="center">
-    <a href="https://twitter.com/_Gautam_Ashish" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-    </a>
-    <a href="https://instagram.com/dbg_gautamsharma_officials" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-    </a>
-    <a href="mailto:gautamksharma45@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://www.linkedin.com/in/gautam-kumar-sharma" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-  </p>
+</div>
+
+<br/>
+
+<div align="center">
+
+[![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=B.Tech+CSE+(Cyber+Security)+%40+GEC+Samastipur;Building+secure%2C+modern+web+experiences;Open+Source+Contributor+%7C+GSSoC+%2724;Exploring+AI%2C+SaaS+%26+Freelancing)](https://github.com/GautamSharma-coder)
+
 </div>
 
 ---
 
-### 🛠️ My Skills & Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nodejs,linux,figma&theme=light" alt="Tech Stack Icons" />
-  <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/-Svelte-F73C00?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte" />
-</p>
+## 👤 About Me
+
+```typescript
+const gautam = {
+  role       : "Full-Stack Developer & Cyber Security Student",
+  college    : "Government Engineering College, Samastipur",
+  year       : "1st Year B.Tech CSE",
+  focus      : ["Web Development", "Cybersecurity", "AI/ML", "SaaS"],
+  currentWork: "Building Festiverse'26 — GEC cultural fest platform",
+  building   : "ProposalAI — AI-powered proposal writing SaaS",
+  openTo     : ["Internships", "Open Source", "Freelance Projects"],
+  contact    : "gautamksharma45@gmail.com",
+};
+```
 
 ---
 
-### 📊 GitHub Stats & Contribution Activity
+## 🛠️ Tech Stack
+
+**Frontend**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-0EA5E9?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Backend & Database**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+**Tools & Platforms**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎉 Festiverse'26</h3>
+      <p>Full-stack cultural festival platform for GEC Samastipur. Features event registration, OTP email verification, team dashboards, and sponsor showcases.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+      </p>
+      <a href="https://github.com/GautamSharma-coder">
+        <img src="https://img.shields.io/badge/View_Repo-0f0c29?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 ProposalAI</h3>
+      <p>AI-powered SaaS for experienced freelancers to generate, customize, and send winning client proposals. Built with a documentation-first approach.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+      </p>
+      <a href="https://github.com/GautamSharma-coder">
+        <img src="https://img.shields.io/badge/In_Progress-a78bfa?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛡️ Cybersecurity Toolkit</h3>
+      <p>Open-source collection of scripts and tools for ethical hacking, penetration testing, and network reconnaissance. Educational use only.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+      </p>
+      <a href="https://github.com/GautamSharma-coder/cyber-tool">
+        <img src="https://img.shields.io/badge/View_Repo-0f0c29?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌐 Portfolio Website</h3>
+      <p>Personal developer portfolio showcasing projects, skills, and experience with a modern, dark-themed UI and smooth animations.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/Tailwind_CSS-0EA5E9?style=flat-square&logo=tailwindcss&logoColor=white"/>
+      </p>
+      <a href="https://github.com/GautamSharma-coder/portfolio">
+        <img src="https://img.shields.io/badge/View_Repo-0f0c29?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GautamSharma-coder&show_icons=true&theme=radical&title_color=ff6347&text_color=c9d1d9" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=GautamSharma-coder&theme=dark&hide_border=true&ring=ff4500&fire=ff6347" alt="GitHub Streak" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GautamSharma-coder&theme=monokai" alt="Profile Summary Card" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=GautamSharma-coder&show_icons=true&theme=tokyonight&hide_border=true&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&bg_color=0d1117" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GautamSharma-coder&layout=compact&theme=tokyonight&hide_border=true&title_color=a78bfa&text_color=c9d1d9&bg_color=0d1117" height="160" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=GautamSharma-coder&theme=tokyonight&hide_border=true&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" />
+
 </div>
 
 ---
 
-### 🚀 Featured Projects
-<details open>
-  <summary>💼 <b>Portfolio Website</b></summary>
-  <a href="https://github.com/GautamSharma-coder/portfolio">
-    <img src="https://img.shields.io/badge/View%20Project-%230A66C2.svg?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <p>A portfolio website showcasing my projects, skills, and experience.</p>
-</details>
+## 🏆 Achievements
 
-<details>
-  <summary>🛠️ <b>Cybersecurity Toolkit</b></summary>
-  <a href="https://github.com/GautamSharma-coder/cyber-tool">
-    <img src="https://img.shields.io/badge/View%20Project-%23FF4500.svg?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <p>Open-source toolkit for penetration testing and ethical hacking.</p>
-</details>
-
----
-
-### 🌐 Fun Metrics & Achievements
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=GautamSharma-coder&style=for-the-badge&color=00BFFF" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/GautamSharma-coder?label=Followers&style=for-the-badge&color=orange" />
-  <img src="https://img.shields.io/github/stars/GautamSharma-coder?label=Stars&style=for-the-badge&color=yellow" />
-</p>
-
----
-
-### 🖼️ Interactive Contribution Activity
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GautamSharma-coder&theme=github" alt="Contribution Graph" />
-</div>
 
----
-### Trophy 🏆 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://camo.githubusercontent.com/8e9b21903b23ceb33f73ae554ec2e76a4998225a9d6869f47038c74642c9a3a0/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d6e696b68696c726974676974687562" alt="gautamkrsharma" data-canonical-src="https://github-profile-trophy.vercel.app/?username=GautamSharma-coder" style="max-width: 100%;"></a>
+<img src="https://github-profile-trophy.vercel.app/?username=GautamSharma-coder&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
 
---- 
-
-### 🎨 Thank You for Visiting!
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF6347&width=700&lines=Thanks+for+stopping+by!;Feel+free+to+connect+with+me!" />
 </div>
 
 ---
 
-### 📞 Connect with Me
-<p align="center">
-  <a href="https://twitter.com/_Gautam_Ashish">
-    <img src="https://img.shields.io/badge/DM%20Me%20on%20Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://instagram.com/dbg_gautamsharma_officials">
-    <img src="https://img.shields.io/badge/Follow%20on%20Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="mailto:gautamksharma45@gmail.com">
-    <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" alt="Footer Wave" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GautamSharma-coder&theme=tokyo-night&hide_border=true&area=true&area_color=a78bfa" />
+
 </div>
+
+---
+
+## 🤝 Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gautam-kumar-sharma)
+[![Twitter / X](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/_Gautam_Ashish)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dbg_gautamsharma_officials)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gautamksharma45@gmail.com)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=GautamSharma-coder&style=flat-square&color=a78bfa&label=Profile+Views)
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
