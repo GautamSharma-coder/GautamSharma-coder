@@ -120,22 +120,25 @@ const gautam = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=GautamSharma-coder&show_icons=true&theme=tokyonight&hide_border=true&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&bg_color=0d1117" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GautamSharma-coder&layout=compact&theme=tokyonight&hide_border=true&title_color=a78bfa&text_color=c9d1d9&bg_color=0d1117" height="160" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GautamSharma-coder&theme=tokyonight" width="100%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=GautamSharma-coder&theme=tokyonight&hide_border=true&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GautamSharma-coder&theme=tokyonight" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GautamSharma-coder&theme=tokyonight" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GautamSharma-coder&theme=tokyonight" width="32%" />
 
 </div>
 
 ---
 
-## 🏆 Achievements
+## 🏆 Achievements & Highlights
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=GautamSharma-coder&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
-
-</div>
+| 🏅 Achievement | 📌 Details |
+|:---|:---|
+| 🌱 Open Source Contributor | GirlScript Summer of Code 2024 (GSSoC '24) |
+| 📣 Campus Ambassador | Unstop — driving student engagement & competitions |
+| 💡 Young Innovator Intern | Scaler School of Technology |
+| 🎭 Club Member | UDAAN — Cultural & Arts Club, GEC Samastipur |
+| 🔐 Cybersecurity Specialization | B.Tech CSE (Cyber Security), GEC Samastipur |
 
 ---
 
